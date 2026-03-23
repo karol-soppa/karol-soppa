@@ -47,5 +47,5 @@ Computer Vision system focused on optimizing real-time inference for object dete
 
 ### 📫 How to reach me:
 * **GitHub**: [github.com/karol-soppa](https://github.com/karol-soppa)
-
+* **LinkedIn**: https://www.linkedin.com/in/karol-soppa
 ---
